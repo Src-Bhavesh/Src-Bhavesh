@@ -1,6 +1,6 @@
 # Bhavesh Pandey
 
-### Software Developer • C++ • Full-Stack • Competitive Programming • AI/ML
+### Software Developer • C++ • Full-Stack • Competitive Programming 
 
 > I build robust backend systems, solve algorithmic problems, and engineer practical full-stack and intelligent applications. Focused on software where performance, reliability, and correctness matter.
 
